@@ -1,6 +1,3 @@
-Below is a sample detailed README that you can adapt for your deep learning project on fall detection using YOLO:
-
----
 
 # Fall Detection System using YOLO
 
