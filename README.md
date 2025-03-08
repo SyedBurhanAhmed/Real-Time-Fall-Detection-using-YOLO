@@ -1,6 +1,3 @@
-Below is a sample detailed README that you can adapt for your deep learning project on fall detection using YOLO:
-
----
 
 # Fall Detection System using YOLO
 
@@ -204,9 +201,5 @@ These metrics help you understand how well the model distinguishes fall events f
 ## Acknowledgements
 
 We acknowledge the contributions of the research community in advancing object detection technologies and thank the maintainers of the LE2I dataset, YOLO frameworks, and associated libraries. Special thanks to our advisors and collaborators who provided feedback during the development of this project.
-
----
-
-Feel free to modify any sections as per your project’s specifics and add any additional details (such as screenshots, diagrams, or further instructions) that can help users understand and utilize your system effectively.
 
 ---
